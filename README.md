@@ -55,7 +55,7 @@ And we have deployed the application on the web using Heroku, to access the appl
 
 <hr>
 
-**<h3>Thirdly</h3>**
+<h3>Thirdly</h3>
 <u>Further, we have implemented the real-time tracking with the help of Google Firebase.</u>
 The Firebase Realtime Database is a cloud-hosted NoSQL database that lets you store and sync data between your users in realtime.
 Hence the data in fed from firebase in-real-time and it is visualized on the graphs.
