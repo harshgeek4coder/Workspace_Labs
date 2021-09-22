@@ -61,8 +61,8 @@ The Firebase Realtime Database is a cloud-hosted NoSQL database that lets you st
 Hence the data in fed from firebase in-real-time and it is visualized on the graphs.
 <hr>
 <h3>Finally</h3>
-We come to the end of the project, where we have created a ***'One Click EDA'***
-***The EDA consists of :***<pre>
+We come to the end of the project, where we have created a <b>'One Click EDA'</b>
+<b>The EDA consists of :</b><br><pre>
 	univariate graphical,<br> 
 	multivariate graphical,<br> 
 	univariate non-graphical,<br>
