@@ -60,7 +60,7 @@ And we have deployed the application on the web using Heroku, to access the appl
 The Firebase Realtime Database is a cloud-hosted NoSQL database that lets you store and sync data between your users in realtime.
 Hence the data in fed from firebase in-real-time and it is visualized on the graphs.
 <hr>
-**<h3>Finally</h3>**
+<h3>Finally</h3>
 We come to the end of the project, where we have created a ***'One Click EDA'***
 ***The EDA consists of :***<pre>
 	univariate graphical,<br> 
