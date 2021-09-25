@@ -22,8 +22,8 @@ They include:<pre>
 	- PreProcessing<br>
 	- Evaluations<br>
         - Statistical Analysis<br>
-	-Real-Time Tracking of ML models and log retrival<br>
-	- Custom_Inference </pre>
+	- Real-Time Tracking of ML models and log retrival<br>
+	- Custom Inference </pre>
 <br><hr>
 <!--
 **<h3>Secondly</h3>**
@@ -51,8 +51,6 @@ The models include:
 	- Text Generation</pre>
 -->
 ***Streamlit*** is used to include all the models in our web application to productionalize it.
-And we have deployed the application on the web using Heroku, to access the application
-<a href="url">Click Here.</a>
 
 <hr>
 
