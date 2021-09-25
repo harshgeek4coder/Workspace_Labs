@@ -17,7 +17,7 @@ def app():
     """
     )
 
-    st.header("Developer By : ")
+    st.header("Developed By : ")
 
     st.write("This Application was developed under SRM MIC Fall 'bout Event' 21.")
 
@@ -31,7 +31,7 @@ def app():
         st.markdown(Linkedin_Link, unsafe_allow_html=True)
 
     with fc[1]:
-        st.write("Contributor : Devansh")
+        st.write("Contributor : Devansh Pratap Singh")
         Github_Link = """ <a href="https://github.com/devanshpratapsingh/">Connect on Github</a> """
         st.markdown(Github_Link, unsafe_allow_html=True)
 
@@ -39,7 +39,7 @@ def app():
         st.markdown(Linkedin_Link, unsafe_allow_html=True)
 
     with fc[2]:
-        st.write("Contributor : Aman Nawaz")
+        st.write("Contributor : Aman Nawaz Manjith")
         Github_Link = """ <a href="https://github.com/AmanNawazManjith">Connect on Github</a> """
         st.markdown(Github_Link, unsafe_allow_html=True)
 
