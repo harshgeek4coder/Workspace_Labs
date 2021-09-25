@@ -20,9 +20,9 @@ Moreover we have incorperated real-time tracking of analytical model training pe
 They include:<pre>   
 	- Load_Data<br>
 	- PreProcessing<br>
-	- Model_Fitting<br>
 	- Evaluations<br>
-	- Predictions<br>
+        - Statistical Analysis<br>
+	-Real-Time Tracking of ML models and log retrival<br>
 	- Custom_Inference </pre>
 <br><hr>
 <!--
