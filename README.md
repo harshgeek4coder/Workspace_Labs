@@ -1,4 +1,4 @@
-# ML Ops Inspired Automated Web Application
+# Workspace_Labs - ML Ops Inspired Lite Web Application
 
 ***The general idea of the project is to encapsulate general Machine Learning Model Training, it's training simulation and finally 
 to display the inference with general Exploratory Data Analysis libraries.***
