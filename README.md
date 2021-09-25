@@ -8,7 +8,7 @@ The user will have the ability to ***explore data mapping, model selection, and 
 This progressive web app integrates the Machine Learning life cycle along with the development of model inference, 
 which can have the ability to handle *data re-collection, data selection, performing one-step EDA, Model selection as per use case, 
 training, and getting results and one-click hyperparameter tuning* for better features selection. 
-Moreover we have incorperated real-time tracking of analytical model training performance[Only for Deep Learning Models].
+Moreover we have incorporated real-time tracking of analytical model training performance[Only for Deep Learning Models].
 <br>
 <br>
 <br>
