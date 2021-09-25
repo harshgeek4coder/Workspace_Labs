@@ -3,11 +3,10 @@
 ***The general idea of the project is to encapsulate general Machine Learning Model Training, it's training simulation and finally 
 to display the inference with general Exploratory Data Analysis libraries.***
 
-The user will have the ability to ***explore data mapping, model selection, and getting the output all with a matter of simple clicks!***
+The user will have the ability to ***explore data mapping, model insights, and tracking the ML Lifecycle with a matter of simple clicks!***
 
 This progressive web app integrates the Machine Learning life cycle along with the development of model inference, 
-which can have the ability to handle *data re-collection, data selection, performing one-step EDA, Model selection as per use case, 
-training, and getting results and one-click hyperparameter tuning* for better features selection. 
+which can have the ability to handle *data re-collection, data selection, performing one-step EDA - which includes both statistical and visual analysis and getting results for better features selection. 
 Moreover we have incorporated real-time tracking of analytical model training performance[Only for Deep Learning Models].
 <br>
 <br>
