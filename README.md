@@ -86,7 +86,7 @@ To use the repo with main app dashboard and run inferences, please follow the gu
 
 - For running on CLI - For the main Streamlit Dash Board, use the inference file as follows:
 
-        $ python app.py
+        $ streamlit run app.py
 	
 
 ## Contributors 
