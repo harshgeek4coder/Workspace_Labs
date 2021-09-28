@@ -69,6 +69,33 @@ We come to the end of the project, where we have created a <b>'One Click EDA'</b
 	but we have consolidated all the above into a single functionality.
 <hr>
 
+## Installation and Quick Start
+The code by default will only run on a video stream.
+To use the repo and run inferences, please follow the guidelines below:
+
+- Clone the Repository: 
+
+        $ git clone https://github.com/harshgeek4coder/Workspace_Labs.git
+        
+- Enter the directory: 
+
+        $ cd Workspace_Labs
+        
+- Install the requirements:
+
+        $ pip install -r requirements.txt
+
+- For running on CLI - For the main Streamlit Dash Board, use the inference file as follows:
+
+        $ python app.py
+	
+
+## Contributors 
+- [Aman Nawaz](https://github.com/AmanNawazManjith)
+- [Devansh Pratap Singh](https://github.com/devanshpratapsingh)
+- [Harsh Sharma](https://github.com/harshgeek4coder)
+
+
 *With this, we hope you liked the project, if you did please make sure to leave a star, that will surely boost our morale! Thanks!*
 
 NOTE : This project is made with the intention that an ordinary person can make sense out of, in other words, one who does not have any prior 
