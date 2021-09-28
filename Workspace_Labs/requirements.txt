@@ -1,0 +1,6 @@
+pyrebase
+plotly
+sklearn
+pandas
+numpy
+streamlit
