@@ -1,4 +1,8 @@
-# ML Ops Inspired Automated Web Application
+# Workspace_Labs - ML Ops Inspired Lite Web Application
+
+
+<img align="left" width="100" height="100" src="">
+
 
 ***The general idea of the project is to encapsulate general Machine Learning Model Training, it's training simulation and finally 
 to display the inference with general Exploratory Data Analysis libraries.***
@@ -6,7 +10,7 @@ to display the inference with general Exploratory Data Analysis libraries.***
 The user will have the ability to ***explore data mapping, model insights, and tracking the ML Lifecycle with a matter of simple clicks!***
 
 This progressive web app integrates the Machine Learning life cycle along with the development of model inference, 
-which can have the ability to handle *data re-collection, data selection, performing one-step EDA - which includes both statistical and visual analysis and getting results for better features selection. 
+which can have the ability to handle data re-collection, data selection, performing one-step EDA - which includes both statistical and visual analysis and getting results for better features selection. 
 Moreover we have incorporated real-time tracking of analytical model training performance[Only for Deep Learning Models].
 <br>
 <br>
@@ -68,6 +72,32 @@ We come to the end of the project, where we have created a <b>'One Click EDA'</b
 
 	but we have consolidated all the above into a single functionality.
 <hr>
+
+## Installation and Quick Start
+To use the repo with main app dashboard and run inferences, please follow the guidelines below:
+
+- Clone the Repository: 
+
+        $ git clone https://github.com/harshgeek4coder/Workspace_Labs.git
+        
+- Enter the directory: 
+
+        $ cd Workspace_Labs
+        
+- Install the requirements:
+
+        $ pip install -r requirements.txt
+
+- For running on CLI - For the main Streamlit Dash Board, use the inference file as follows:
+
+        $ streamlit run app.py
+	
+
+## Contributors 
+- [Aman Nawaz](https://github.com/AmanNawazManjith)
+- [Devansh Pratap Singh](https://github.com/devanshpratapsingh)
+- [Harsh Sharma](https://github.com/harshgeek4coder)
+
 
 *With this, we hope you liked the project, if you did please make sure to leave a star, that will surely boost our morale! Thanks!*
 
