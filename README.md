@@ -1,8 +1,7 @@
+
+<img align="left" width="400" height="400" src="https://github.com/harshgeek4coder/Workspace_Labs/blob/main/Workspace_Labs/static/Yellow%20Magenta%20Black%20White%20Neon%20Scifi%20YouTube%20Icon.png">
+
 # Workspace_Labs - ML Ops Inspired Lite Web Application
-
-
-<img align="left" width="100" height="100" src="">
-
 
 ***The general idea of the project is to encapsulate general Machine Learning Model Training, it's training simulation and finally 
 to display the inference with general Exploratory Data Analysis libraries.***
@@ -11,9 +10,8 @@ The user will have the ability to ***explore data mapping, model insights, and t
 
 This progressive web app integrates the Machine Learning life cycle along with the development of model inference, 
 which can have the ability to handle data re-collection, data selection, performing one-step EDA - which includes both statistical and visual analysis and getting results for better features selection. 
+
 Moreover we have incorporated real-time tracking of analytical model training performance[Only for Deep Learning Models].
-<br>
-<br>
 <br>
 ## A Pipeline of the model we have created:
 
