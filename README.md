@@ -70,8 +70,7 @@ We come to the end of the project, where we have created a <b>'One Click EDA'</b
 <hr>
 
 ## Installation and Quick Start
-The code by default will only run on a video stream.
-To use the repo and run inferences, please follow the guidelines below:
+To use the repo with main app dashboard and run inferences, please follow the guidelines below:
 
 - Clone the Repository: 
 
